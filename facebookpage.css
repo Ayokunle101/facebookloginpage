@@ -1,0 +1,82 @@
+body{
+    background-color:rgb(240,242,245) ;
+    
+}
+.fb{
+    color:blue;
+    font-size:50px;
+    font-style:bold;
+    margin: 20px 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:500;
+    letter-spacing:normal;
+   
+    }
+.fb1{
+    font-size: 40px;
+    color: black;
+    margin:20px 30px;
+    font-weight:30px;
+    
+}
+
+div{
+  
+    border: 1px solid white;
+    background-color: white;
+    height: 360px;
+    position: relative;
+    top: 10px;
+    left:800px;
+    width:400px;
+    border-radius:5px;
+    float: left;
+    display: inline;
+   
+  }
+  input{
+      border-radius:5px;
+  }
+ 
+ .input1{ 
+     margin:5px 0px 10px 15px;
+     border:1px solid gray;;
+     padding:20px 100px;
+     
+ }
+ .input2{
+     margin: 2px 0px 10px 15px;
+     border:1px solid gray;
+     padding:20px 100px;
+    
+
+ }
+ .input3{
+     margin:2px 0px 10px 15px;
+     background-color:rgb(24,119,242);
+     border:1px solid gray;
+     padding:10px 157px;
+     color: white;
+     font-size:20px;
+     
+ }
+ .a{
+     text-align:center;
+     font-size:20px;
+     text-decoration: none;
+
+ }
+ .input4{
+ margin:0px 80px 0px 80px;
+ padding:15px 25px 15px 25px;
+ background-color:rgb(66,183,42);
+ font-style:bold;
+ color: white;
+ font-size:20px;
+ font-family:  'Times New Roman', Times, serif;
+ 
+ }
+ hr{
+     width:350px;
+     color: gray;
+ }
